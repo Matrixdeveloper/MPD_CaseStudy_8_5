@@ -1,0 +1,4 @@
+grant{
+    // Allow evertying for now
+    permission java.security.AllPermission;
+};

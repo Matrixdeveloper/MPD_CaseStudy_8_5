@@ -3,7 +3,7 @@ implement fromFoundation of Multithreaded, Parallel, and Distribued Programm
 
 -On Macos
 -compile file with: javac -Xlint *.class
--running server: 
+-running server:</br>
   rmiregistry 9999 &
   java RemoteDatabaseServer
  

@@ -4,9 +4,10 @@ implement fromFoundation of Multithreaded, Parallel, and Distribued Programm
 -On Macos
 -compile file with: javac -Xlint *.class
 -running server:</br>
-  rmiregistry 9999 &
+  rmiregistry 9999 & </br>
   java RemoteDatabaseServer
- 
--running client, provide a integer to define the working round 
-  java Clients 5
+</br>
+</br>
+-running client, provide a integer to define the working round </br>
+  java Clients 5 </br>
   

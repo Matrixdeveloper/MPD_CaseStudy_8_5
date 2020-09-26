@@ -8,6 +8,6 @@ implement fromFoundation of Multithreaded, Parallel, and Distribued Programm
   java RemoteDatabaseServer
 </br>
 </br>
--running client, provide a integer to define the working round </br>
+-running client, provide an integer to define the working round </br>
   java Clients 5 </br>
   
